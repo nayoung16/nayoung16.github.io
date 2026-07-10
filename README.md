@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# nayoung16.github.io
-=======
+
 # 김나영 Backend Portfolio
 
 설치 없이 바로 실행되는 정적 포트폴리오입니다.
@@ -40,4 +38,3 @@ python3 -m http.server 8000
 - 경력 및 교육 기간 최종 검토
 - 이메일 주소 확인
 - 회사 영업비밀 또는 비공개 자료가 포함되지 않았는지 확인
->>>>>>> ef0fa77 (first portfolio)
